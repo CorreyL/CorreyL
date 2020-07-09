@@ -12,3 +12,7 @@ I cut my teeth on `C` and `C++` throughout uni, so I'm always ready to jump into
 systems level programming in [`C++`](https://github.com/CorreyL/DSRC) and
 [`Java`](https://github.com/bcgsc/qupath-annotation-exchange) when I need to.
 If time permitted, I'd be onboard with learning more about `Rust` and `Go`.
+
+Enjoy this picture of my pets ✌️
+
+![](ilona-lily.png)
