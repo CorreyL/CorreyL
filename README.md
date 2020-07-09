@@ -22,3 +22,5 @@ Enjoy this picture of my pets ¯\\\_(ツ)\_/¯ ✌️
 <img
   src="https://github.com/CorreyL/CorreyL/blob/master/ilona-lily.png?raw=true"
 />
+
+> _Vigilo Confido._
