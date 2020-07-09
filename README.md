@@ -2,3 +2,8 @@
 advocate for [clean code](https://imgs.xkcd.com/comics/good_code.png) 🧹,
 [well structured commits](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 ✨, and fitting a problem to a tool, rather than fitting a tool to a problem 🛠️.
+
+I've spent a lot of my professional time building `React` applications, mostly
+in Javascript, but some in Typescript. I've built back-ends using `ExpressJS`
+and `Python` frameworks, and hooked up these various back-ends to `PostgreSQL`,
+`MySQL` and `MS-SQL` databases.
