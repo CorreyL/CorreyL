@@ -17,7 +17,7 @@ systems level programming in [`C++`](https://github.com/CorreyL/DSRC) and
 [`Java`](https://github.com/bcgsc/qupath-annotation-exchange) when I need to.
 If time permitted, I'd be onboard with learning more about `Rust` and `Go`.
 
-Enjoy this picture of my pets ✌️
+Enjoy this picture of my pets ¯\\\_(ツ)\_/¯ ✌️
 
 <img
   src="https://github.com/CorreyL/CorreyL/blob/master/ilona-lily.png?raw=true"
