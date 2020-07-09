@@ -15,4 +15,6 @@ If time permitted, I'd be onboard with learning more about `Rust` and `Go`.
 
 Enjoy this picture of my pets ✌️
 
-![](ilona-lily.png)
+<img
+  src="https://github.com/CorreyL/CorreyL/blob/master/ilona-lily.png?raw=true"
+/>
