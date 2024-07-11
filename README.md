@@ -1,9 +1,9 @@
-👋 Hey! I'm part of the Security Operations team at [Apryse](https://www.apryse.com/) (formerly PDFTron Systems Inc.), with a background primarily in
-Web Development. When writing code, I'm an advocate for [empathetic code reviews with fewer nitpicks](https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/),
+👋 Hey! My name is Correy, and I primarily have a background in modern web development. When writing code, I'm an
+advocate for [empathetic code reviews with fewer nitpicks](https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/),
 [well structured commits](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) ✨, and fitting a
 problem to a tool, rather than fitting a tool to a problem 🛠️.
 
-In late 2022 to today, I've helped bolster Apryse's Security Operations team, creating a foundation for a
+In late 2022 to July 2024, I helped bolster Apryse's Security Operations team, creating a foundation for a
 stronger Vulnerability Management program by standardizing and integrating [Static Composition Analysis](https://en.wikipedia.org/wiki/Software_composition_analysis)
 and [Static Application Security Testing](https://en.wikipedia.org/wiki/Static_application_security_testing) tooling
 into the various SDLC pipelines across the organization.
