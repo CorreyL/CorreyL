@@ -1,5 +1,6 @@
-👋 Hey! My name is Correy, and I primarily have a background in modern web development. When writing code, I'm an
-advocate for [empathetic code reviews with fewer nitpicks](https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/),
+👋 Hey! My name is Correy, I'm an Integration Engineer at [Constructor](https://constructor.com/), and I primarily have a
+background in modern web development. When writing code, I'm an advocate for
+[empathetic code reviews with fewer nitpicks](https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/),
 [well structured commits](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) ✨, and fitting a
 problem to a tool, rather than fitting a tool to a problem 🛠️.
 
